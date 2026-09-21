@@ -18,10 +18,10 @@ This repo contains the R code behind a LinkedIn post exploring:
 ## Preview
 
 ### Distribution zoo
-![Distribution zoo](outputs/distribution_zoo_dark_preview.png)
+![Distribution zoo](outputs/distribution_zoo_dark.png)
 
 ### Boxplot vs. raincloud: tail or shape?
-![Boxplot vs raincloud](outputs/boxplot_vs_raincloud_dark_preview.png)
+![Boxplot vs raincloud](outputs/boxplot_vs_raincloud_dark.png)
 
 > Note: the two PNGs above are preview renders. Running
 > `R/distribution_zoo_boxplot.R` reproduces the same charts directly from
