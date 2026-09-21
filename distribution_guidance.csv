@@ -1,7 +1,0 @@
-Distribution,Example,What_to_check,Possible_approach
-Normal,Continuous measurements,Model assumptions,Linear models if assumptions are satisfied
-Right-skewed,"Biomarkers, healthcare costs",Skewness and positive values,Log transformation or Gamma GLM
-Count data,Number of visits or events,Dispersion and zero counts,Poisson or Negative Binomial
-Time-to-event,Time to relapse,Censoring and event structure,Survival analysis
-Bimodal,Possible subgroups,Subgroups and mixture structure,Investigate subgroups
-Heavy tails,Extreme observations,Data quality and influential values,Robust methods and sensitivity analysis
