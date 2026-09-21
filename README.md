@@ -34,8 +34,8 @@ distribution-zoo-boxplot/
 ├── R/
 │   └── distribution_zoo_boxplot.R   # full, self-contained script
 ├── outputs/
-│   ├── distribution_zoo_dark_preview.png
-│   ├── boxplot_vs_raincloud_dark_preview.png
+│   ├── distribution_zoo_dark.png
+│   ├── boxplot_vs_raincloud_dark.png
 │   └── distribution_guidance.csv    # decision-guide table (Part 3 of the script)
 └── README.md
 ```
