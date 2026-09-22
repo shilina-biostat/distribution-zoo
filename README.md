@@ -1,4 +1,4 @@
-# Distribution Zoo: Why the Bell Curve Is the Exception, Not the Rule
+# Distribution Zoo: Real-World Data Rarely Look Perfectly Normal
 
 Statistics courses almost always start with the normal distribution — the
 symmetric, well-behaved "bell curve." In real biomedical, clinical, and
